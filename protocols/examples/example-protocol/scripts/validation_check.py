@@ -1,0 +1,1 @@
+# This script is required for a protocol definition to be complete

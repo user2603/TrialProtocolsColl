@@ -1,0 +1,1 @@
+the templates folder is optional, the case report forms can be described in the protocol document if you want
