@@ -1,0 +1,8 @@
+{
+  "review_stages": [
+    "safety_review"
+  ],
+  "signoff_roles": [
+    "data_manager"
+  ]
+}
