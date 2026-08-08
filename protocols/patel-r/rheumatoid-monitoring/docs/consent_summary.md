@@ -1,0 +1,2 @@
+患者知情同意书摘要：rheumatoid-monitoring
+请参阅研究中心的相关规定
