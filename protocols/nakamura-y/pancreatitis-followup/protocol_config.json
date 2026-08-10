@@ -1,0 +1,11 @@
+{
+  "review_stages": [
+    "safety_review",
+    "ethics_review",
+    "data_review"
+  ],
+  "signoff_roles": [
+    "lead_reviewer",
+    "data_manager"
+  ]
+}
