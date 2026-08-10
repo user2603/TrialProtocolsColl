@@ -1,0 +1,2 @@
+患者知情同意书摘要：nutrition-counseling
+请参阅研究中心的相关规定
